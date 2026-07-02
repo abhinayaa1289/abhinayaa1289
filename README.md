@@ -3,7 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Aitham+Abhinaya;Data+Scientist;ML+%2B+Analytics+Enthusiast" alt="Typing SVG"/>
 
 <img src="https://komarev.com/ghpvc/?username=abhinayaa1289&style=flat-square&color=36BCF7&label=PROFILE+VIEWS"/>&nbsp;
-<a href="https://linkedin.com/in/aitham_abhinaya"><img src="https://img.shields.io/badge/-LinkedIn-36BCF7?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aitham-abhinaya-55069938a"><img src="https://img.shields.io/badge/-LinkedIn-36BCF7?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:abinayaa1289@gmail.com"><img src="https://img.shields.io/badge/-Email-36BCF7?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -96,7 +97,8 @@ SQL-based database for managing employee records.
 
 ### 📫 Let's Connect
 
-<a href="https://linkedin.com/in/aitham_abhinaya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aitham-abhinaya-55069938a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:abinayaa1289@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br><br>
 
